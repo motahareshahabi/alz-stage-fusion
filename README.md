@@ -7,3 +7,8 @@ This repository will host the code for:
 **Status:** polishing manuscript for arXiv submission.  Notebook will appear here after the preprint is online.
 
 ## Planned structure
+data/ # tiny synthetic CSV
+models/ # placeholder for trained weights
+src/ # Python modules
+notebook.ipynb # reproduces ROC curve
+environment.yml # conda environment
