@@ -1,0 +1,12 @@
+name: alz-fusion
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - scikit-plot
+  - tensorflow
+  - jupyter
